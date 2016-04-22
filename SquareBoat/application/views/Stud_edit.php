@@ -1,3 +1,5 @@
+<h2>Edit student info</h2>
+
 <?php 
    echo form_open('Stud_controller/update_student', 'class="fc"'); 
    echo form_hidden('old_roll_no',$old_roll_no); 

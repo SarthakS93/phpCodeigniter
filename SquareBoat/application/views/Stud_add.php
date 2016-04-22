@@ -1,3 +1,5 @@
+<h2>Add new student</h2>
+
 <?php 
    echo form_open('Stud_controller/add_student', 'class="fc"');
    echo form_label('Roll No.'); 
